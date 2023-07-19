@@ -18,7 +18,7 @@ Update the Binder button below:
 - remove the `code quotes` around the button
 ```
 Click on the Binder button to open the Notebook:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mas300labs-uofsa/new-notebook/HEAD?labpath=index.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mas300labs-uofsa/test/HEAD?labpath=index.ipynb)
 ```
 
 ## environment.yml
