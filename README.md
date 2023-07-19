@@ -16,10 +16,10 @@ Starting from your new repo, modify the following:
 Update the Binder button below:
 - change 'new-notebook' with whatever you called the repo for your new notebook
 - remove the `code quotes` around the button
-```
+  
 Click on the Binder button to open the Notebook:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mas300labs-uofsa/test/HEAD?labpath=index.ipynb)
-```
+
 
 ## environment.yml
 Modify the environment to add any libraries you need.  Currently, it only has:
